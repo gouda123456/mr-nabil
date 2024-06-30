@@ -43,11 +43,11 @@
       
    }
    #contact-box img{
-      width: 350px;
+      width: 100px;
       margin-top: 200px;
    } 
   #contact-box img:hover {
-    width: 450px;
+    width: 150px;
     border-bottom: 2px solide
 
    }
